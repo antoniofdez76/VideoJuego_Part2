@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Actividad 3.1
 public class JohnMovement : MonoBehaviour
 {
     private Rigidbody2D Rigidbody2D;
